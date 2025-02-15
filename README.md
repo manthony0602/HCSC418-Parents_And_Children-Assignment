@@ -81,5 +81,5 @@ This project demonstrates how to create a **React component** that renders at le
 
 ## Application Screenshot
 
-![Assignment Two ("Parents & Children" Homework) Screenshot](image-1.png)
+![Assignment Two ("Parents & Children" Homework) Screenshot](image.png)
 #
