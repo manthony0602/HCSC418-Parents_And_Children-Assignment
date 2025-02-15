@@ -31,6 +31,7 @@ This project demonstrates how to create a **React component** that renders at le
 - Manages the **state** for two child components:
   - `child1Image` (AUC school logos)
   - `child2Image` (NFL team logos)
+  - `child3Image` (Best NFL Team)
 - Handles **button clicks** to cycle through an array of images.
 
 ### **Child Component (`ChildComponent.js`)**
@@ -82,4 +83,3 @@ This project demonstrates how to create a **React component** that renders at le
 ## Application Screenshot
 
 ![Assignment Two ("Parents & Children" Homework) Screenshot](image.png)
-#
