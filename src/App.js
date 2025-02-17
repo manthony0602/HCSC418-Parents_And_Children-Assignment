@@ -38,7 +38,7 @@ class App extends React.Component {
     this.setState({ child2Image: this.nflTeams[nextIndex] });
   };
 
-  // Function to handle the button click for Child 2
+  // Function to handle the button click for Child 3
   handleChild3Click = () => {
     const currentIndex = this.bestNflTeam.indexOf(this.state.child3Image);
     const nextIndex = (currentIndex + 1) % this.bestNflTeam.length; // Cycle through the images
