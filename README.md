@@ -50,17 +50,11 @@ This project demonstrates how to create a **React component** that renders at le
    git clone https://github.com/your-username/react-parent-child-demo.git
    cd react-parent-child-demo
 
-   2. **Navigate to the Project Folder**:
+2. **Navigate to the Project Folder**:
 
    ```bash
    cd your-repo-name
    ````
-
-   2. **Navigate to the Project Folder**:
-
-   ```bash
-   cd your-repo-name
-   ```
 
 2. **Install Dependencies**:
 
